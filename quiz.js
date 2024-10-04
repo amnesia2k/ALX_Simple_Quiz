@@ -14,6 +14,8 @@ let hobbies = ["Playing games", "Cooking", "Learining new tech stacks"];
 let undefinedVariable;
 let nullVariable = null;
 
+Menlo, Monaco, 'Courier New', monospace
+
 console.log(name, typeof name);
 console.log(age, typeof age);
 console.log(isStudent, typeof isStudent);
