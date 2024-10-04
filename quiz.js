@@ -1,3 +1,5 @@
+"use strict";
+
 /*
 let name = "Olatilewa";
 let age = 25;
